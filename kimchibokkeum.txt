@@ -27,3 +27,18 @@ plus
 
 네 번째 실험 진행 undo 결과 - 내부 작업 change 없이 commit 메세지만 수정 가능 -> 소스 트리의 강제 push와 비슷
                            - change 된 내역 commit 가능
+
+지금까지 로컬 repo에서의 revert, undo 를 했을 때 결과가 어떻게 나타났는지 파악했다.
+
+이제 원격 repo는 어떻게 되는지 알아보자.
+
+
+원격 repo에서의 작업을 위해 쓸데 없는 소리를 해보자.
+
+1. 안녕
+
+2. helo
+
+3. 반갑다 친구들
+
+4. hi friend!
