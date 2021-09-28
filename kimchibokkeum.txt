@@ -22,3 +22,8 @@ plus
 세 번째 실험 Revert 성공적 - revert했다는 내역이 남고 해당 커밋 작업 내용이 사라짐
 
 네 번째 실험 undo 테스트 시작
+
+네 번째 실험 진행 중
+
+네 번째 실험 진행 undo 결과 - 내부 작업 change 없이 commit 메세지만 수정 가능 -> 소스 트리의 강제 push와 비슷
+                           - change 된 내역 commit 가능
